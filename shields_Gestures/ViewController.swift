@@ -58,6 +58,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("Loaded")
+        print("Loaded 222")
     }
 
     override func didReceiveMemoryWarning() {
